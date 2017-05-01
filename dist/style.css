@@ -1,0 +1,12 @@
+body {
+  background-color: #cfd7e2;
+  text-align: center;
+  font-family: 'Open Sans', sans-serif;
+}
+.app {
+  max-width: 700;
+  margin: 2% auto;
+}
+#checkbox {
+  margin-left: 10;
+}
