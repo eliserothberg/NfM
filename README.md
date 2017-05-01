@@ -9,4 +9,3 @@ Your app should have the following functionality:
 
 You may use any combination of front-end libraries and frameworks. We'd like to see you implement the exercise using the technologies you're most comfortable with, but keep in mind we'll be reviewing your code for simplicity, readability, and reusability.
 
-Once you're done with the exercise, please package the project in a .zip file and email it to joe@nonfatmedia.com. If your implementation requires any specific build or deploy steps to get the app up and running, please include instructions with your deliverable. Please let us know if you have any questions while you're working on the exercise. Thank you!
